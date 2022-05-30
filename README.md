@@ -9,7 +9,7 @@ MetaMask
 Remix
 OpenZeppelin library:ERC20, ERC20Detailed, ERC20Mintable
 
-## the Evaluation Evidence sectio
+## the Evaluation Evidence section
 ![alt text](https://github.com/2coconi/ch21/blob/main/Screen%20Shot%202022-05-22%20at%2010.43.05%20PM.png?raw=true)
 ![alt text](https://github.com/2coconi/ch21/blob/main/Screen%20Shot%202022-05-22%20at%2010.43.22%20PM.png?raw=true)
 ![alt text](https://github.com/2coconi/ch21/blob/main/Screen%20Shot%202022-05-22%20at%2010.44.44%20PM.png?raw=true)
